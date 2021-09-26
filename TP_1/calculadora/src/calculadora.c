@@ -12,7 +12,7 @@
 #include <stdlib.h>
 #include "input.h"
 #include "operacionesMatematicas.h"
-#include "mostrarResultados.h"
+#include "mostrarNumeros.h"
 #include "menu.h"
 
 
